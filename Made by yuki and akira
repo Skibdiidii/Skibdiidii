@@ -1,0 +1,55 @@
+local Library = loadstring(game:HttpGet("https://pastebin.com/raw/vff1bQ9F"))()
+local Window = Library.CreateLib("maid hub (by akra_alt)", "BloodTheme")
+local Tab = Window:NewTab("blade ball")
+
+local Section = Tab:NewSection("blade ball scripts")
+
+Section:NewButton("venox", "ButtonInfo", function()
+    loadstring(Game:HttpGet("https://raw.githubusercontent.com/Fsploit/venox-blade-ball-v1/main/K-A-T-S-U-S-F-S-P-L-O-I-T-I-S-A-F-U-R-R-Y%20MAIN%20V4"))()
+end)
+
+Section:NewButton("visual", "ButtonInfo", function()
+    loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/a5945467f3b9388503ca653c0ea49cba.lua"))()
+end)
+
+Section:NewButton("bedol", "ButtonInfo", function()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/nqxlOfc/Loaders/main/Blade_Ball.lua"))()
+end)
+
+Section:NewButton("Plutonium", "ButtonInfo", function()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/PawsThePaw/Plutonium.AA/main/Plutonium.Loader.lua", true))()
+
+end)
+
+Section:NewButton("wtf KEY_7IEUZoT51f", "ButtonInfo", function()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/helldevelopment/RobloxScripts/main/SanityLoader.lua"))()
+end)
+
+Section:NewButton("triple key Triple Hub", "ButtonInfo", function()
+    loadstring(Game:HttpGet("https://raw.githubusercontent.com/Skdjdjd226/Odn/main/TripleHubV2/ImBack"))()
+end)
+
+Section:NewButton("pittbullhub might not work", "ButtonInfo", function()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/SoyAdriYT/PitbullHub-X/main/Loader.lua", true))()
+end)
+
+Section:NewButton("gpllp", "ButtonInfo", function()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/songolasangkatangw/memek/main/adakontolsamamemek.lua"))()
+end)
+
+Section:NewButton("ddezz", "ButtonInfo", function()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/Atreus-Hub/DenDenZ-Creationz/main/KeyRBLX%20BladeBall"))()
+end)
+
+Section:NewButton("kairo", "ButtonInfo", function()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/JosiahScripts/Kairo-V1/main/Kairo%20V1"))()
+end)
+
+Section:NewButton("alchemy hun no fluxus support", "ButtonInfo", function()
+    loadstring(game:HttpGet("https://scripts.alchemyhub.xyz"))()
+end)
+
+Section:NewButton("nexam", "ButtonInfo", function()
+    loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/6af56c1753ac6679dee3acbd1fd952e5.lua"))()
+
+end)
