@@ -53,3 +53,13 @@ Section:NewButton("nexam", "ButtonInfo", function()
     loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/6af56c1753ac6679dee3acbd1fd952e5.lua"))()
 
 end)
+
+Section:NewButton("Yuki's walkspeed (50)", "ButtonInfo", function()
+    
+game.Players.PlayerAdded:Connect(function(player)
+    player.CharacterAdded:Connect(function(character)
+        local humanoid = character:WaitForChild("Humanoid")
+        humanoid.WalkSpeed = 50
+    end)
+end)
+end)
